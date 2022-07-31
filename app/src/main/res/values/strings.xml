@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab21</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_wight">Вес</string>
+    <string name="hint_height">Рост</string>
+    <string name="hint_age">Возраст</string>
+</resources>
